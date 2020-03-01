@@ -1,0 +1,8 @@
+C:\Users\Public\Andre\ExampleWebApplication\ExampleBusiness\bin\Debug\ExampleBusiness.dll
+C:\Users\Public\Andre\ExampleWebApplication\ExampleBusiness\bin\Debug\ExampleBusiness.pdb
+C:\Users\Public\Andre\ExampleWebApplication\ExampleBusiness\obj\Debug\ExampleBusiness.csprojAssemblyReference.cache
+C:\Users\Public\Andre\ExampleWebApplication\ExampleBusiness\obj\Debug\ExampleBusiness.dll
+C:\Users\Public\Andre\ExampleWebApplication\ExampleBusiness\obj\Debug\ExampleBusiness.pdb
+C:\Users\Public\Andre\ExampleWebApplication\ExampleBusiness\bin\Debug\DevIO.Business.dll
+C:\Users\Public\Andre\ExampleWebApplication\ExampleBusiness\bin\Debug\DevIO.Data.dll
+C:\Users\Public\Andre\ExampleWebApplication\ExampleBusiness\obj\Debug\ExampleBusiness.csproj.CopyComplete
